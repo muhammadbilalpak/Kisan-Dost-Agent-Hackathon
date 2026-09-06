@@ -1,0 +1,10 @@
+chemical_name,target_pest,target_crop,max_safe_dosage_ml_per_liter,max_safe_dose_per_acre,unit,spray_interval_days,pre_harvest_interval_days,toxicity_class,human_use_prohibited,ppe_required,data_source
+Pyriproxyfen 10.8% EC,Whitefly (Nymphs),Cotton,4.0,400,ml,10,14,Class III (Slightly hazardous),true,Gloves;Mask;Goggles,"Demo/Sample Data: Punjab Agri Extension / DPP Pakistan Guidelines"
+Acetamiprid 20% SP,Whitefly (Adults) / Aphids,Cotton;Wheat,2.5,125,g,7,10,Class II (Moderately hazardous),true,Gloves;Mask;Goggles,"Demo/Sample Data: Punjab Agri Extension / DPP Pakistan Guidelines"
+Flonicamid 50% WDG,Whitefly / Jassid,Cotton,1.5,60,g,10,14,Class III (Slightly hazardous),true,Gloves;Mask,"Demo/Sample Data: Punjab Agri Extension / DPP Pakistan Guidelines"
+Diafenthiuron 50% SC,Whitefly / Mites,Cotton,2.5,200,ml,12,21,Class II (Moderately hazardous),true,Gloves;Mask;Goggles,"Demo/Sample Data: Punjab Agri Extension / DPP Pakistan Guidelines"
+Emamectin Benzoate 1.9% EC,Armyworm / Bollworm,Cotton;Maize,3.0,200,ml,7,7,Class II (Moderately hazardous),true,Gloves;Mask,"Demo/Sample Data: Punjab Agri Extension / DPP Pakistan Guidelines"
+Chlorpyrifos 40% EC,Termites / Cutworm,Sugarcane;Wheat,10.0,1000,ml,14,30,Class II (Moderately hazardous),true,Gloves;Mask;Rubber Boots,"Demo/Sample Data: Punjab Agri Extension / DPP Pakistan Guidelines"
+Propiconazole 25% EC,Yellow Rust / Leaf Spot,Wheat,3.0,200,ml,14,21,Class III (Slightly hazardous),true,Gloves;Mask,"Demo/Sample Data: Punjab Agri Extension / DPP Pakistan Guidelines"
+Tebuconazole 25.9% EC,Yellow Rust / Leaf Blight,Wheat,3.0,200,ml,14,21,Class III (Slightly hazardous),true,Gloves;Mask,"Demo/Sample Data: Punjab Agri Extension / DPP Pakistan Guidelines"
+Imidacloprid 200 SL,Whitefly / Aphids / Jassid,Cotton;Vegetables,4.0,250,ml,10,14,Class II (Moderately hazardous),true,Gloves;Mask;Goggles,"Demo/Sample Data: Punjab Agri Extension / DPP Pakistan Guidelines"

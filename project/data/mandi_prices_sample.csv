@@ -1,0 +1,12 @@
+commodity,mandi,district,province,arrival_date,min_price_pkr_per_maund,max_price_pkr_per_maund,modal_price_pkr_per_maund
+Wheat,Ghalla Mandi Multan,Multan,Punjab,2026-03-01,3850,4000,3920
+Wheat,Grain Market Lahore,Lahore,Punjab,2026-03-01,3900,4100,4000
+Wheat,Faisalabad Mandi,Faisalabad,Punjab,2026-03-01,3800,3950,3900
+Cotton (Phutti),Multan Mandi,Multan,Punjab,2026-03-01,8200,9100,8650
+Cotton (Phutti),Bahawalpur Mandi,Bahawalpur,Punjab,2026-03-01,8100,8900,8500
+Basmati Rice,Gujranwala Mandi,Gujranwala,Punjab,2026-03-01,4800,5300,5100
+Basmati Rice,Hafizabad Mandi,Hafizabad,Punjab,2026-03-01,4700,5200,5000
+Sugarcane,Rahim Yar Khan,Rahim Yar Khan,Punjab,2026-03-01,425,450,440
+Maize,Sahiwal Mandi,Sahiwal,Punjab,2026-03-01,2350,2650,2500
+Gram (Black Chickpea),Bhakkar Mandi,Bhakkar,Punjab,2026-03-01,6200,6800,6500
+Canola/Mustard,Khanewal Mandi,Khanewal,Punjab,2026-03-01,5800,6400,6100
