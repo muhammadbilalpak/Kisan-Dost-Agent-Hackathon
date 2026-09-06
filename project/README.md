@@ -6,7 +6,7 @@
 [![Tests Passing](https://img.shields.io/badge/tests-28%20passed-brightgreen.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Public GitHub Repository**: [https://github.com/m-rehan-k/kisan-dost-multi-agent-ai](https://github.com/m-rehan-k/kisan-dost-multi-agent-ai)
+**Public GitHub Repository**: [https://github.com/m-rehan-k/kisan-dost-multi-agent-ai](https://github.com/muhammadbilalpak/Kisan-Dost-Agent-Hackathon/tree/main/project)
 
 **Kisan Dost** is an intelligent agronomy extension multi-agent system designed specifically for smallholder and commercial farmers in Pakistan. Built on the **OpenAI Agents SDK (Python)**, it understands queries in English, Urdu, and Roman Urdu (e.g. *"Multan mein Rabi season, 5 acres, limited water — kya lagaun?"*). It automatically routes queries via an intelligent Triage Agent to specialized domain agents equipped with localized agricultural tools, real-world data APIs, persistent SQLite session memory, and dual-layer safety guardrails.
 
